@@ -22,7 +22,7 @@ This collection of samples gets you started on R, R Tools for Visual Studio (RTV
 
 ## A First Look at R
 
-This sample provides an in-depth introduction to R through the extensive comments in two source files. For the best experience, place the cursor at the top of the file and press Ctrl+Enter to send the code line-by-lie to the **R Interactive** window. (Lines that install packages might take a minute or two to complete.)
+This sample provides an in-depth introduction to R through the extensive comments in two source files. For the best experience, place the cursor at the top of the file and press Ctrl+Enter to send the code line-by-line to the **R Interactive** window. (Lines that install packages might take a minute or two to complete.)
 
 - `1-Getting Started with R.R` covers many R fundamentals including using packages, loading and analyzing data, and plotting.
 
